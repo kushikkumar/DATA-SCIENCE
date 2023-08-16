@@ -12,3 +12,12 @@ mat1 = [[1,2],[3,4]]
 mat2 = [[1,2],[3,4]]
 result  = np.add(mat1,mat2)
 ````
+
+![Screenshot from 2023-08-16 22-23-17](https://github.com/chanakyavasantha/DATA-SCIENCE/assets/93817654/d2485e60-2a49-40ca-9cea-d321a1848d34)
+```
+import numpy as np
+mat1 = [[1,2],[3,4]]
+mat2 = [[1,2],[3,4]]
+result  = np.add(mat1,mat2)
+```
+
