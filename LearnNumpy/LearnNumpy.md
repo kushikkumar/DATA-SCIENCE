@@ -37,6 +37,7 @@ median = np.median(arr)
 std_dev = np.std(arr)
 max_val = np.max(arr)
 min_val = np.min(arr)
+print(mean, median, std_dev,max_val, min_val)
 ```
 ### Transpose of a matrix in numpy:
 ![Screenshot from 2023-08-30 18-52-21](https://github.com/chanakyavasantha/DATA-SCIENCE/assets/93817654/1a8f2ffb-0942-4868-b41a-95d87ba47267)
