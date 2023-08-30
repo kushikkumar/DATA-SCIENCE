@@ -48,5 +48,9 @@ li = np.array(li)
 print(li.T)
 ```
 
+### Indexing in a matrix:
+![Screenshot from 2023-08-30 19-08-06](https://github.com/chanakyavasantha/DATA-SCIENCE/assets/93817654/5c33ee64-6e7b-4394-b6f7-0276eb341eea)
+
+
 
 
