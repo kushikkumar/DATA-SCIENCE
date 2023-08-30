@@ -49,7 +49,13 @@ print(li.T)
 ```
 
 ### Indexing in a matrix:
-![Screenshot from 2023-08-30 19-08-06](https://github.com/chanakyavasantha/DATA-SCIENCE/assets/93817654/5c33ee64-6e7b-4394-b6f7-0276eb341eea)
+![Screenshot from 2023-08-30 19-17-24](https://github.com/chanakyavasantha/DATA-SCIENCE/assets/93817654/d0cced63-f0bf-4d44-a456-ff82807eb0b6)
+![Screenshot from 2023-08-30 19-18-29](https://github.com/chanakyavasantha/DATA-SCIENCE/assets/93817654/97555536-c7fa-4cd4-83ab-839086961149)
+
+
+### Decompostion of list(Multi Dimensional Array):
+![Screenshot from 2023-08-30 19-16-25](https://github.com/chanakyavasantha/DATA-SCIENCE/assets/93817654/5ab710e5-c195-431c-b630-4406a8df8eeb)
+
 
 
 
