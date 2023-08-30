@@ -38,4 +38,14 @@ std_dev = np.std(arr)
 max_val = np.max(arr)
 min_val = np.min(arr)
 ```
+### Transpose of a matrix in numpy:
+![Screenshot from 2023-08-30 18-52-21](https://github.com/chanakyavasantha/DATA-SCIENCE/assets/93817654/1a8f2ffb-0942-4868-b41a-95d87ba47267)
+![Screenshot from 2023-08-30 18-52-00](https://github.com/chanakyavasantha/DATA-SCIENCE/assets/93817654/8ee46946-f030-4bf9-aed9-2bbbf29a5818)
+```
+li = [[1,2,3],[4,5,6]]
+li = np.array(li)
+print(li.T)
+```
+
+
 
