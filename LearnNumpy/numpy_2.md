@@ -19,8 +19,13 @@ You are given a NumPy array `arr`. Perform the following indexing operations:
 
 ```python
 import numpy as np
-
 arr = np.array([10, 20, 30, 40, 50])
+```
+**Program:**
+```python
+# program to produce output
+
+
 ```
 
 **Sample Output:**
