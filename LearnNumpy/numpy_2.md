@@ -23,7 +23,13 @@ arr = np.array([10, 20, 30, 40, 50])
 ```
 **Program:**
 ```python
-# program to produce output
+import numpy as np
+
+
+arr = np.array([10, 20, 30, 40, 50])
+print( "first element :",arr[0])
+print( "last element :",arr[-1])
+print( "3rd element :",arr[3])
 
 
 ```
